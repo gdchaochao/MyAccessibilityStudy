@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyAccessibilityStudy</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="accessibility_service_label">测试辅助功能的服务</string>
+    <string name="accessibility_service_description">超超的辅助服务</string>
+
+</resources>
